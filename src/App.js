@@ -1,7 +1,7 @@
 import "./App.css";
 import Search from "./components/Search/Search";
 import { WEATHER_API_KEY, WEATHER_API_URL } from "./config";
-import { getCoordinates, getRequest } from "./helper";
+import { getRequest } from "./helper";
 import Weather from "./components/Weather/Weather";
 import React, { useState } from "react";
 import Forecast from "./components/Forecast/Forecast";
