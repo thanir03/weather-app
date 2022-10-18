@@ -1,0 +1,39 @@
+{
+    "dt": 1666062000,
+    "main": {
+        "temp": 28.98,
+        "feels_like": 33.06,
+        "temp_min": 28.11,
+        "temp_max": 28.98,
+        "pressure": 1012,
+        "sea_level": 1012,
+        "grnd_level": 1009,
+        "humidity": 72,
+        "temp_kf": 0.87
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "clouds": {
+        "all": 75
+    },
+    "wind": {
+        "speed": 0.95,
+        "deg": 217,
+        "gust": 1.22
+    },
+    "visibility": 10000,
+    "pop": 0.87,
+    "rain": {
+        "3h": 2.02
+    },
+    "sys": {
+        "pod": "d"
+    },
+    "dt_txt": "2022-10-18 03:00:00"
+}
