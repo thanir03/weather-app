@@ -10,8 +10,8 @@ export const getRequest = async function (URL, option) {
   }
 };
 
-export const getCoordinates = function () {
-  return new Promise(function (resolve, reject) {
-    navigator.geolocation.getCurrentPosition(resolve, reject);
-  });
-};
+// export const getCoordinates = function () {
+//   return new Promise(function (resolve, reject) {
+//     navigator.geolocation.getCurrentPosition(resolve, reject);
+//   });
+// };
